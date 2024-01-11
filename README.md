@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there! 👋
+
+My name is Tamzeed Quazi, an aspiring software engineer and AI enthusiast. I am currently pursuing a combined major in Computer Science and Statistics at the University of British Columbia and am a simulation software developer for [UBC Solar](https://ubcsolar.com/). I have a passion for software engineering, automation, web development, and machine learning/AI, especially computer vision.
+
+
+🔭 Check out my projects and resume on my portfolio page: [Portfolio](https://tamzeedq.netlify.app/)
+
+⚡ I am currently seeking internship and co-op opportunities! <br>
+📫 Let's get connected! Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/tamzeedquazi/) or at tamzeed.q@gmail.com
+
 
 <!--
 **tamzeedq/tamzeedq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
