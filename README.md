@@ -1,8 +1,6 @@
 ## Hello, I'm Tamzeed! 👋
 
-I'm a software engineer focused on creating reliable systems and applied ML tools to solve people's problems.
-
-⚡ I enjoy building things, breaking them, and making them better.
+I'm a software engineer who likes to make reliable systems and applied ML tools to solve people's problems.
 
 🌐 Find me around the web: [Portfolio](https://tamzeedq.netlify.app), [LinkedIn](https://www.linkedin.com/in/tamzeedquazi) 
 
